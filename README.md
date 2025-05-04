@@ -1,7 +1,8 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/wiyanti/wiyanti/main/Banner_THIPONK_Final_Latip600.jpg" alt="Latip THIPONK Banner" width="100%" />
+
 
 <!--
+<img src="https://raw.githubusercontent.com/wiyanti/wiyanti/main/Banner_THIPONK_Final_Latip600.jpg" alt="Latip THIPONK Banner" width="100%" />
 **Canelmusik/Canelmusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
