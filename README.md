@@ -1,5 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/wiyanti/wiyanti/main/Banner_THIPONK_Final_Latip600.jpg" alt="Latip THIPONK Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/canelmusik/canelmusik/main/Banner_THIPONK_Final_Latip600.jpg" alt="Latip THIPONK Banner" width="100%" />
 
 ## Hi there 👋  
 I'm **Latip THIPONK** — a Digital Music & Creative Project Manager 🎧
